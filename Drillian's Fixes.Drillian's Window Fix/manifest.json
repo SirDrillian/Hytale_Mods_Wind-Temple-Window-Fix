@@ -1,0 +1,20 @@
+{
+  "Group": "Drillian's Fixes",
+  "Name": "Drillian's Window Fix",
+  "Version": "1.0.0",
+  "Description": "A mod that fixes the Wind Temple Window randomization",
+  "Authors": [
+    {
+      "Name": "Drillian",
+      "Email": "sirdrillian@gmail.com",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
