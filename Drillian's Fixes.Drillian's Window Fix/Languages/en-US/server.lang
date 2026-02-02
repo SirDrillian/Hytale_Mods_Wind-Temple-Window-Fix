@@ -1,5 +1,8 @@
 # === assetEditor ===
 
-items.Furniture_Temple_Wind_Window1.name = Wind Temple Window
+items.Furniture_Temple_Wind_Window.name = Wind Temple Window
 items.Furniture_Temple_Wind_Window2.name = Wind Temple Window Broken
 items.Furniture_Temple_Wind_Window3.name = Wind Temple Window Broken 2
+
+items.Furniture_Human_Ruins_Window.name = Lost Civilization Window
+items.Furniture_Human_Ruins_Window_Ruined.name = Lost Civilization Window Broken
